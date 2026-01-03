@@ -1,5 +1,4 @@
-#I am <span style="color: red;">Sajid Mahmud Sayan</span> :
-HI
+#I am Sajid Mahmud Sayan:
 
 # 💫 About Me:
 I am currently working on Pyrex - AI<br>I am currently learning (Python,Data Science,C++)<br>Ask me about (Python,AI,SQL,Data Science, Web Development)<br>Fun fact (I think I am funny)
