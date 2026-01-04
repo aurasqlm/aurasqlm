@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aurasqlm&label=Profile%20views&color=0e75b6&style=flat" alt="aurasqlm" /> </p>
 # I am <span style="color: red;">Sajid Mahmud Sayan</span>
 
 # 💫 About Me:
