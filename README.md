@@ -571,32 +571,9 @@ Virtualization: VirtualBox, WSL2
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<br/>
 
 ## 🎓 **LEARNING JOURNEY**
 
-<div align="center">
-```mermaid
-graph LR
-    A[Web Development] --> B[Full Stack]
-    B --> C[Backend Specialization]
-    C --> D[Python Expertise]
-    D --> E[AI & ML]
-    E --> F[Data Science]
-    F --> G[Current Focus]
-    
-    style A fill:#0d1117,stroke:#00f2ff,stroke-width:2px,color:#fff
-    style B fill:#0d1117,stroke:#00f2ff,stroke-width:2px,color:#fff
-    style C fill:#0d1117,stroke:#00f2ff,stroke-width:2px,color:#fff
-    style D fill:#0d1117,stroke:#00f2ff,stroke-width:2px,color:#fff
-    style E fill:#0d1117,stroke:#00f2ff,stroke-width:2px,color:#fff
-    style F fill:#0d1117,stroke:#00f2ff,stroke-width:2px,color:#fff
-    style G fill:#00f2ff,stroke:#00f2ff,stroke-width:3px,color:#000
-```
-
-</div>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
