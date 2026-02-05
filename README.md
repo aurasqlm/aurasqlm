@@ -711,9 +711,9 @@ Virtualization: VirtualBox, WSL2
 
 <br/>
 
-<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20Markdown-00f2ff?style=for-the-badge&labelColor=0d1117" alt="Made with Love"/>
+<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20Time-00f2ff?style=for-the-badge&labelColor=0d1117" alt="Made with Love"/>
 
-<sub>© 2025 SajiMahmud Sayan • All Rights Reserved</sub>
+<sub>© 2025 Sajid Mahmud Sayan • All Rights Reserved</sub>
 </div>
 <br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f2ff&height=120&section=footer"/>
