@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://discord.com/users/aurasqlm"><img src="https://img.shields.io/badge/Discord-aurasqlm-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://www.facebook.com/sajidmahmudsayansayan"><img src="https://img.shields.io/badge/Facebook-sajidmahmudsayansayan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://sajidmsayan.pages.dev"><img src="https://img.shields.io/badge/Portfolio-sajidmsayan.pages.dev-FF7F50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://sajidmsayan.cyou"><img src="https://img.shields.io/badge/Portfolio-sajidmsayan.cyou-FF7F50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:sajidmsayan@gmail.com"><img src="https://img.shields.io/badge/Email-sajidmsayan%40gmail.com-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
   <a href="https://github.com/aurasqlm"><img src="https://img.shields.io/badge/GitHub-aurasqlm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <img src="https://komarev.com/ghpvc/?username=aurasqlm&label=Profile%20Views&color=00ffff&style=for-the-badge" alt="Profile Views">
@@ -146,7 +146,7 @@
     <td width="50%" valign="top">
       <br>
       🌐 <strong>Portfolio</strong><br>
-      Live: <a href="https://sajidmsayan.pages.dev"><code>sajidmsayan.pages.dev</code></a>
+      Live: <a href="https://sajidmsayan.cyou"><code>sajidmsayan.cyou</code></a>
       <br><br>
       ✉️ <strong>Email</strong><br>
       Direct: <a href="mailto:sajidmsayan@gmail.com"><code>sajidmsayan@gmail.com</code></a>
