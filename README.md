@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://sajidmsayan.pages.dev">
-    <img src="./liquid-glass-banner.png" width="100%" alt="Sajid Mahmud Sayan - Hero Artwork">
-  </a>
-</p>
-
 <h1 align="center">✦ SAJID MAHMUD SAYAN ✦</h1>
 
 <p align="center">
